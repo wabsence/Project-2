@@ -55,3 +55,18 @@
 #### Output:
 
 ![PHP](images/php.png "PHP Installation")
+
+## Step 4: NGINX CONFIGURATION FOR PHP PROCESSOR
+
+#### Commands: sudo mkdir /var/www/projectLEMP and sudo chown -R $USER:$USER /var/www/projectLEMP
+
+#### Output:
+
+![NGINX_CONFIG](images/nginxConfig.png "NGINX CONFIG")
+
+![NGINX_CONFIG](images/nginxConfig2.png "NGINX CONFIG")
+
+![NGINX_CONFIG](images/nginxConfig3.png "NGINX CONFIG")
+
+![NGINX_CONFIG](images/nginxConfig4.png "NGINX CONFIG")
+
