@@ -70,3 +70,31 @@
 
 ![NGINX_CONFIG](images/nginxConfig4.png "NGINX CONFIG")
 
+## Step 5: TESTING PHP WITH NGINX
+
+#### Commands: sudo nano /var/www/projectLEMP/info.php (creating info.php file)
+#### Output:
+
+![phpTest](images/phpTest.png "NGINX PHP TESTING")
+
+![phpTest](images/phpTest2.png "NGINX PHP TESTING")
+
+## Step 6: USING PHP TO RETRIEVE DATA FROM MYSQL DATABASE
+
+#### Commands: sudo mysql, mysql> CREATE DATABASE `example_database`; (Log into console, create database, create user access etc )
+#### Output:
+
+![mysqlDB](images/mysqlDB.png "MYSQL DATABASE")
+
+![mysqlDB](images/mysqlDB2.png "MYSQL DATABASE")
+
+![mysqlDB](images/mysqlDB3.png "MYSQL DATABASE")
+
+![mysqlDB](images/mysqlDB4.png "MYSQL DATABASE")
+
+![mysqlDB](images/mysqlDB5.png "MYSQL DATABASE")
+
+![mysqlDB](images/mysqlDB6.png "MYSQL DATABASE")
+
+
+
