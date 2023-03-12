@@ -1,6 +1,6 @@
 # LEMP STACK IMPLEMENTATION
 
-#### This project is base on the techniques invoved to successful deploy a lemp stack software project.
+#### This project is based on the techniques invoved to successfully deploy a lemp stack software project.
 
 it inculdes tasks such as:
 
