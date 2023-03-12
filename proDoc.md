@@ -48,3 +48,10 @@
 #### Output:
 
 ![MYSQL_3](images/mysql4.png "MYSQL")
+
+## Step 3: PHP INSTALLATION
+
+#### Command: sudo apt install php-fpm php-mysql
+#### Output:
+
+![PHP](images/php.png "PHP Installation")
