@@ -26,3 +26,25 @@
 #### Output:
 
 ![Accessingg Server](images/nginxServer.png "accessing apache server")
+
+## Step 2: MYSQL INSTALLATION
+
+#### Command: sudo apt install mysql-server (Mysql Installation)
+#### Output:
+
+![MYSQL_1](images/mysql.png "MYSQL Installation")
+
+#### Commands: $ sudo mysql and ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PassWord.1'; (connect to mysql and change password)
+#### Output:
+
+![MYSQL_2](images/mysql2.png "MYSQL")
+
+#### Command: $ sudo mysql_secure_installation (Mysql Installation)
+#### Output:
+
+![MYSQL_3](images/mysql3.png "MYSQL")
+
+#### Command: $ sudo mysql -p (Login to mysql)
+#### Output:
+
+![MYSQL_3](images/mysql4.png "MYSQL")
